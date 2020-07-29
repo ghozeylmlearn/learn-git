@@ -31,5 +31,8 @@ git branch --list
 
 </div>
 
-
+<h2>تدريب على branch:</h2>
+١.قم بانشاء branch باسم fix-bug
+٢.قم باضافة جملة الطباعة لطباعة "fix the bug"
+٣.قم بحفظ التعديل باستخدام `add` و`commit`
 </div>
